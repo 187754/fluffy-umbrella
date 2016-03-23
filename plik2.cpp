@@ -1,5 +1,5 @@
-#include <iostream>
+#include <cmath>
 int main(){
-	std::cout<< "hej";
+	int a = pow(2, 5);
 reutrn 0;
 }
