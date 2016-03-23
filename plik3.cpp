@@ -1,5 +1,5 @@
-for (int i=0;i<5;i++)
+for (int i=0;i<500;i++)
 {
 	std::cout<<i;
-	std::cout<<"czesc";
+	std::cout<<"czesc wszystkim";
 }
